@@ -1,1 +1,9 @@
-# experience_uv
+# uv Try
+
+# uvとは
+
+- Pythonバージョン管理・仮想環境作成・高速なライブラリインストールなどをが可能なツール
+
+# 練習一覧
+
+- [uvのお試し](/memo/uv_try.md)
